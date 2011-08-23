@@ -1,5 +1,9 @@
 {
 	"name" : "extend",
 	"version" : "0.0.1",
-	"description" : "extend function similar to jQuery extend."
+	"description" : "extend function similar to jQuery extend.",
+	"repository" : {
+		"type" : "git",
+		"url" : "http://github.com/webspinner/extend.git"
+	}
 }
